@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Firebase-Web-Mobile-Client-Application</title>
+
 </head>
 <body>
 
